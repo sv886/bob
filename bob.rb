@@ -13,3 +13,13 @@ class Bob
     end
   end
 end
+
+
+
+remark = "\t" * rand(1..10)
+
+puts "============================================================"
+
+puts "remark == remark.reverse? #{remark == remark.reverse}"
+
+puts "============================================================"
